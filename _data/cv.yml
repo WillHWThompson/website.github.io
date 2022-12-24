@@ -2,64 +2,58 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Will Thompson
     - name: Date of Birth
-      value: 14th March 1879
+      value: 3/14/1998
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: University of Vermont
+      year: 2022-Present 
+
+    - title: Bachelor of the Arts, Liberal Arts 
+      institution: St. John's College, Santa Fe
+      year: 2016-2020
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Research Assistant 
+      institution: Vermont Complex Systems Center
+      year: 2022-Present 
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Post-Baccalaureate Researcher
+      institution: Los Alamos National Labs, Los Alamos, New Mexico
+      year: 2021-2022
       description:
+        -Constructed a 10-ton liquid argon dark matter detector to search for sub-GeV dark matter
+        -Developed and maintained code bases for critical environmental monitoring and control systems for over 30 devices
+        -Implemented significant upgrades to the data acquisition system, dramatically increasing system stability and allowing for digitization of more 246 channels simultaneously with a throughput of 2GB/min
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Data-Scientist
+      institution: MITRE Corporation 
+      year: 2020
+      description:
+        -Applied complex systems science to solve real world problems and develop deliverables for government sponsors
+        -Co-developed Strategy Mining, an open-source genetic programming framework for agent-based models.
+        -Contributed to three projects and co-authored 2 research papers,
+
+    - title: Undergraduate Research Fellow 
+      institution: Carnegie Mellon University
+      year: 2018
+      description:
+        -Conceived of and completed research project using natural language processing and machine learning to perform comparative analysis of the structure of philosophical treatises
+        -Developed and implemented novel statistical models to analyze structure of texts through use of random walks
+        -Authored two research papers currently in peer review, listed as first author on one1
+
+
 
 - title: Open Source Projects
   type: time_table
