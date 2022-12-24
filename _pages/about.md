@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. PhD student in Complex Systems and Data 
 profile:
   align: right
   image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
 
 news: true  # includes a list of news items
