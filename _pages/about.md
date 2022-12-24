@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About
 
-Welcome! I am a PhD student in complex systems and data science at the **University of Vermont's Complex Systems Center**. My interests include computational social science, physics and philosophy.
+Welcome! I am a PhD student in complex systems and data science at the [**University of Vermont's Complex Systems Center**](https://vermontcomplexsystems.org/). My interests include computational social science, physics and philosophy.
 
 From 2021 to 2022 I worked as a post-bac researcher at **Los Alamos National Labs** working on the [Coherent Captain  Mills](http://ccm.mit.edu/) searching for sub-GeV dark matter. In 2019 I worked for the **MITRE corporation** applying complex systems science to solve real world problems. In 2020 I graduated from **St. John's College Santa Fe**  where I studied philosophy and the history of math and science. 
 
