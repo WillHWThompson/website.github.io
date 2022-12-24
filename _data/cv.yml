@@ -74,14 +74,17 @@
   contents:
     - year: 2020 
       items: 
-        - Science Undergraduate Laboratory Internship(SULI) Grant
-        - description: 
-            -US Department of Energy
+        - Science Undergraduate Laboratory Internship(SULI) Grant[US Department of Energy]
+        - Dean’s Award for College Service[St. John's College]
            
         
-    - year: 2029
+    - year: 2018
       items: 
-        - Max Planck Medal
+        - Robert Neidorf Memorial Scholarship for Academic Excellence[St. John's College]
+    - year: 2017
+      items: 
+        - Award for Relating Intense Education to Life(ARIEL) Grant 2017
+
 
 - title: Academic Interests
   type: nested_list
