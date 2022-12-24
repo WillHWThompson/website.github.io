@@ -46,29 +46,39 @@
         -Contributed to three projects and co-authored 2 research papers,
 
     - title: Undergraduate Research Fellow 
-      institution: Carnegie Mellon University
+      institution: Carnegie Mellon University, Pittsburgh PA
       year: 2018
       description:
         -Conceived of and completed research project using natural language processing and machine learning to perform comparative analysis of the structure of philosophical treatises
         -Developed and implemented novel statistical models to analyze structure of texts through use of random walks
-        -Authored two research papers currently in peer review, listed as first author on one1
+        -Authored two research papers currently in peer review, listed as first author on one
 
+
+    - title: Undergraduate Researcher 
+      institution: Santa Fe Institute, Santa Fe, NM
+      year: 2017-2018
+      description:
+        -Conducted independent research, employed natural language processing and machine learning to understand the role of the chorus in Greek tragedy
+        
 
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/mitre/strategy-mining">strategy mining</a>
+      year: 2015 
+      description: Strategy Mining is a framework, based on Evolutionary Model Discovery (EMD), to evolve and evaluate sets of plausible characteristics and behavior rules that drive the behavior of entities of interest.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020 
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
+        - Science Undergraduate Laboratory Internship(SULI) Grant
+        - description: 
+            -US Department of Energy
+           
+        
     - year: 2029
       items: 
         - Max Planck Medal
