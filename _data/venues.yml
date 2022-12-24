@@ -1,6 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"PRL":
+  url: https://journals.aps.org/prl/ 
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PRD":
+  url: https://journals.aps.org/prd/ 
+
+"Front. Phys.":
+  url: https://www.frontiersin.org/journals/physics 

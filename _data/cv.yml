@@ -89,16 +89,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Digital Humanities
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+      - Using computational techniques to understand the structure of discourse and social systems from greek tragedy to US common law
+
+    - title: Computational Social Sciences 
       items:
-        - Description 1.
-        - Description 2.
+        - Applying complex systems science to social systems, studying social inequality and facility placement.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> unicycle riding,reading,baking,camping 
