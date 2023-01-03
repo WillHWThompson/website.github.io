@@ -4,8 +4,8 @@
 
 "PRD":
   url: https://journals.aps.org/prd/ 
-  color: "#00369f"
+  color: "#ffffff"
 
 "Front. Phys.":
   url: https://www.frontiersin.org/journals/physics 
-  color: "#00369f"
+  color: "#000000"
