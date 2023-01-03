@@ -1,19 +1,23 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Plato's Republic Electronic Display 
+description: Raspberry Pi powered display for Plato's Republic. 
 img: assets/img/res_publica_photos/book_4_better_colors.jpg
 importance: 1
 category: work
 ---
 
 
-<h1>Platos Republic Electronic Display</h1>
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h1>Plato's Republic Electronic Display</h1>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+This summer, two of my friends for married(congratulations). For their wedding gift I decided to make something special. Both friends were big fans of Plato's Republic. For their gift I decided to make an electronic box that displays the
+content of the republic slowly over time. The idea being that this device would sit on a desk and could be glanced at. Over time, the entirety of the Republic would be displayed.
+
+Growing up Catholic,I was always been intrigued by the lectionary calendar. The Catholic missal includes readings from the old and new testament. Depending on the day the missal contains 2 or 3 readings. The homily given by the priest usually connects or explicates the content of these readings. Over the course of a two year cycle 71% of the New Testament is read and 13.5% of the Old Testament is read. I was always struck by the idea of reading a book at this snails pace, giving an ample amount of time to consider each and every word. I wanted to adapt this idea to another text - Plato's Republic. 
+
+
+I designed and laser cut the box itself out of birch sheet wood. The front of inscribed with the word "ΠΟΛΙΤΕΑ, ΠΛΑΤΩΝ" or "REPUBLIC, PLATO". The back is inscribed with a message to the bride and groom, also in Attic greek.
 
 
 <div class="row">
@@ -28,9 +32,11 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-   left all frame peices assembled and ready for varnish. middle: closeup of the faceplate, right: varnished pieces.  
+   left all frame pieces assembled and ready for varnish. middle: closeup of the faceplate, right: varnished pieces.  
 </div>
 
+
+I then fitted the pieces together and wood glued the frame together to let it dry. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,10 +47,10 @@ To give your project a background in the portfolio page, just add the img tag to
    The finished and constructed frame. 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
+
+
+The box is powered by a raspberry pi 4 with an OLED screen. The display itself is a simple webpage displayed with Chromium's kiosk mode. The changing script is made using python. The text scrolls over time so every five minutes, a new line is added to the bottom of the text and the top line is removed. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
