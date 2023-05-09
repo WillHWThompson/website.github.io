@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. PhD student in Complex Systems and Data 
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: headshot_2.jpg
   image_circular: true # crops the image to make it circular
   address: >
 
